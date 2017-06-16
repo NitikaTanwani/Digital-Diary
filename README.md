@@ -1,0 +1,2 @@
+# Digital-Diary
+This is a digital diary ,suitable for people who are in a habit of writing diary at the end of the day to describe about their life and important events.This application is built in Java with the help of AWT. It creates a notepad file for every user,and protects it with user name and password.This is one of the better ways to get privacy even when members of the same family are sharing a single machine.
